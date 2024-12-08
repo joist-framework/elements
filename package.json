@@ -32,7 +32,7 @@
   "devDependencies": {
     "@babel/core": "7.16.0",
     "@babel/plugin-transform-typescript": "7.16.1",
-    "@open-wc/testing": "3.0.3",
+    "@open-wc/testing": "3.2.2",
     "@snowpack/plugin-typescript": "1.2.1",
     "@storybook/addon-actions": "6.3.12",
     "@storybook/addon-essentials": "6.3.12",
